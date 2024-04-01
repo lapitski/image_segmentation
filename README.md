@@ -1,3 +1,3 @@
 # image_segmentation
 
-A new Flutter project.
+image segmentation using google_mlkit_selfie_segmentation
